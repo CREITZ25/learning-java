@@ -10,7 +10,7 @@ public class TestTermin {
     abgabe.tag = 15;
     Scanner scanner = new Scanner(System.in);
     System.out.println("Um wieviele Monate soll der Termin verschoben werden?");
-    Integer number = scanner.nextInt();5
+    Integer number = scanner.nextInt();
 
 //    abgabe.verschiebe_einen_Monat();
     System.out.print("von "+abgabe.monat);
