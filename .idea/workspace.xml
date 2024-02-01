@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75a95838-43b7-4297-ab39-7a1d1d96fddc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/training/Rechenprogramm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/training/Taschenrechner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/idea.properties" beforeDir="false" afterPath="$PROJECT_DIR$/idea.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/training/Experiment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/training/Experiment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/training/Rechenprogramm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/training/Rechenprogramm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/training/Taschenrechner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/training/Taschenrechner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +57,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/creitz/Projects/devonfwIDEasy/workspaces/main/IDEasy",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>

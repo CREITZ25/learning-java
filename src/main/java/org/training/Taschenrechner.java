@@ -2,7 +2,7 @@ package org.training;
 
 public class Taschenrechner {
 
-  // abs(), max(), add(), sub(), mul(), div(),
+  // abs(), max(), add(), sub(), mul(), div(), mod()
 
   public static int abs(int a) { return a > 0 ? a : -a;}
   public static int max(int a, int b) { return a > b ? a : b;}
